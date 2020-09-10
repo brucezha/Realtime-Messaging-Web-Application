@@ -1,9 +1,4 @@
-Changed project due to Twitter API issues..
 
-
-Group Name: ChatRoom
-
-Group Members: Yunshang Zha
 
 Overview:
 This is a simple online chat room application. Different users can join the room using the name they set up. Message will be saved even one user left the group.
